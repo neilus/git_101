@@ -1,2 +1,3 @@
-HEllo Git!
+Hello Git!
 ----------
+Ez itt legyen egy index html fajl ami csak ugy van...
